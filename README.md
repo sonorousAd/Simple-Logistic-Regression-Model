@@ -1,2 +1,3 @@
 # Simple-Logistic-Regression-Model
-implementation of logistic regression and apply it to dataset.
+Implementation of logistic regression using python.
+Assignment number 2 of COSC419M 2021
